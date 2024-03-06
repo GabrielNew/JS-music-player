@@ -1,2 +1,2 @@
 # JS-music-player
-Project from FreeCodeCamp
+Project from FreeCodeCamp to play musics
